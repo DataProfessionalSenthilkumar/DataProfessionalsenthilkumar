@@ -84,7 +84,77 @@ I've completed multiple certifications and real-world virtual projects to build 
 
 ## 📄 Resume
 
-📄 *Coming soon!*
+Senthil Kumar  
+Hyderabad, India  
+[LinkedIn]---[(https://www.linkedin.com/in/YOUR-LINKEDIN)  ](https://www.linkedin.com/in/senthil-kumar-ba2547173)
+📧 [senthilcegptech@gmail.com] | 📞 [7395929186]
+
+---
+
+🎯 **Data Analyst | Power BI Developer**  
+Certified and results-driven data professional with 5 years of IT experience and a focused transition into data analytics. Skilled in building impactful dashboards using Power BI, performing SQL-based data transformations, and presenting insights for business decision-making. Known for fast learning, clean visuals, and data storytelling.
+
+---
+
+🛠️ **Skills**
+- Power BI (DAX, Power Query, Visualizations)
+- SQL (Joins, CTEs, Aggregations)
+- Excel (PivotTables, Lookups, Dashboards)
+- Data Cleaning & Transformation
+- Report Automation & Storytelling
+
+---
+
+📜 **Certifications**
+- Microsoft PL-300 – Power BI Data Analyst Associate
+- Google Data Analytics – Coursera
+- Data Analyst – Data Science 360
+- Infosys Power BI Developer
+
+---
+
+📊 **Projects**
+
+**Online Store Sales Dashboard**  
+Analyzed regional sales & customer behavior for an online retailer using Power BI  
+→ Revealed peak December sales, key countries, and top 10 customer revenue trends  
+
+**PwC Switzerland Case Study (Virtual Internship)**  
+Developed 3 dashboards: Call Center Ops, Churn Analysis, and Workforce Diversity  
+→ Identified churn risk drivers and gender imbalance in leadership  
+
+**Atliq Properties Dashboard**  
+Built a hotel chain performance report covering revenue, occupancy & bookings  
+→ Weekend occupancy ~74%; Delhi had highest revenue contribution  
+
+---
+
+💼 **Professional Experience**
+
+**IT Support Analyst**  
+*Infosys BPM (2023–2025)*  
+- Provided tech support for internal enterprise tools  
+- Extracted system-level data for troubleshooting and performance analysis  
+- Created internal Excel dashboards to track SLA, ticket resolution, and system uptime  
+- Initiated self-led learning and transitioned into Power BI-based reporting
+
+
+**Microsoft SQL DBA** 
+*Synergist software solution (2020–2023)*  
+-Developed, maintained, and optimized internal database systems to ensure data integrity and high availability
+-Managed user access, permissions, and performed regular backups and restores
+-Monitored system performance, identified bottlenecks, and implemented improvements for better efficiency
+-Troubleshot technical issues and deployed fixes to improve reliability and security
+-Collaborated with developers and IT teams to align database operations with business needs
+
+---
+
+🎓 **Education**
+*BE - Anna University (chennai) (2017–2020)*  
+
+---
+
+📄 Resume version updated: April 2025
 
 ---
 
