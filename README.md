@@ -86,7 +86,7 @@ I've completed multiple certifications and real-world virtual projects to build 
 
 Senthil Kumar  
 Hyderabad, India  
-[LinkedIn]---[(https://www.linkedin.com/in/YOUR-LINKEDIN)  ](https://www.linkedin.com/in/senthil-kumar-ba2547173)
+[LinkedIn]---(https://www.linkedin.com/in/senthil-kumar-ba2547173)
 📧 [senthilcegptech@gmail.com] | 📞 [7395929186]
 
 ---
@@ -140,7 +140,9 @@ Built a hotel chain performance report covering revenue, occupancy & bookings
 
 
 **Microsoft SQL DBA** 
+
 *Synergist software solution (2020–2023)*  
+
 -Developed, maintained, and optimized internal database systems to ensure data integrity and high availability
 -Managed user access, permissions, and performed regular backups and restores
 -Monitored system performance, identified bottlenecks, and implemented improvements for better efficiency
