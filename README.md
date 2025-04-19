@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Senthil Kumar
 
 🎯 **Data Analyst / Power BI Developer**  
-💼 5 years in IT | PL-300 Certified | SQL | Excel | Power BI  
+💼 2 + years in IT | PL-300 Certified | SQL | Excel | Power BI  
 📍 Based in South India | Open to Remote Opportunities
 
 ---
 
 ## 🧠 About Me
 
-With 5 years of experience in the IT industry, I've recently transitioned into the data analytics space, focusing on Power BI, SQL, and Excel.  
-I've completed multiple certifications and real-world virtual projects to build end-to-end dashboards that provide actionable business insights.
+With 2+ years of experience in data analytics space, focusing on Power BI, SQL, and Excel.  
+I've completed multiple certifications and real-world projects to build end-to-end dashboards that provide actionable business insights.
 
 ---
 
@@ -92,7 +92,7 @@ Hyderabad, India
 ---
 
 🎯 **Data Analyst | Power BI Developer**  
-Certified and results-driven data professional with 5 years of IT experience and a focused transition into data analytics. Skilled in building impactful dashboards using Power BI, performing SQL-based data transformations, and presenting insights for business decision-making. Known for fast learning, clean visuals, and data storytelling.
+Certified and results-driven data professional with 2+ years of IT experience and a focused transition into data analytics. Skilled in building impactful dashboards using Power BI, performing SQL-based data transformations, and presenting insights for business decision-making. Known for fast learning, clean visuals, and data storytelling.
 
 ---
 
@@ -133,21 +133,19 @@ Built a hotel chain performance report covering revenue, occupancy & bookings
 
 **IT Support Analyst**  
 *Infosys BPM (2023–2025)*  
-- Provided tech support for internal enterprise tools  
-- Extracted system-level data for troubleshooting and performance analysis  
-- Created internal Excel dashboards to track SLA, ticket resolution, and system uptime  
-- Initiated self-led learning and transitioned into Power BI-based reporting
+Power BI Developer / Data Analyst
 
 
-**Microsoft SQL DBA** 
+Developed and deployed interactive Power BI dashboards to analyze business KPIs across domains such as e-commerce, hospitality, finance, and operations
 
-*Synergist software solution (2020–2023)*  
+Transformed raw data using Power Query and SQL for modeling, cleansing, and shaping data into analysis-ready formats
 
--Developed, maintained, and optimized internal database systems to ensure data integrity and high availability
--Managed user access, permissions, and performed regular backups and restores
--Monitored system performance, identified bottlenecks, and implemented improvements for better efficiency
--Troubleshot technical issues and deployed fixes to improve reliability and security
--Collaborated with developers and IT teams to align database operations with business needs
+Built reports using DAX for calculated columns, measures, and custom logic to track trends, forecasts, and aggregations
+
+Created dynamic filters, drill-downs, and bookmarks for stakeholder-friendly navigation and insight discovery
+
+Delivered insights on sales trends, customer behavior, churn analysis, and operational efficiency through visually compelling dashboards
+
 
 ---
 
